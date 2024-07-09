@@ -16,3 +16,8 @@ templete2 = "Hola, mi nombre es {} {}".format(nombre, apellido)
 
 print(templete2)
 
+#Creacin de una variable para un formato en string 
+#Solo agregaremos f"MENSAJE {VAR}" esta forma es mas limpa
+templete3 = f"Hola, mi nombre es {nombre} {apellido}"
+
+print(templete3)
