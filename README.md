@@ -1,0 +1,1 @@
+En este repositorio se estará colocando archivos .py en los cuales debe de tener código de algunas prácticas básicas para poder practicar Python.
