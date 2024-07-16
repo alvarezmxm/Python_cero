@@ -21,3 +21,7 @@ print(templete2)
 templete3 = f"Hola, mi nombre es {nombre} {apellido}"
 
 print(templete3)
+
+#Esto solo es una prueba para ver como funciona al git branch
+templete4 = f"Hola se hizo bien la rama y el merge por {nombre} {apellido}"
+print(templete4)
