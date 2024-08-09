@@ -27,3 +27,13 @@ elif sueldo >=450000 and sueldo <1000000:
 else:
     print("El siudadano no debe de pagar al SAT porque gana: " + "$",sueldo)
     
+#IF comparando un dato con ==
+
+mascota = input("Que mascota te gusta: ")
+
+if mascota == "perro":
+    print("El perro es el mejor amigo del hombre")
+elif mascota == "gato":
+    print("Los gatos son muy indiferentes con los humanos pero son limpios")
+else:
+    print("La mascota aun no esta en la base de datos")
